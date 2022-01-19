@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Carousel */
+.carousel-items1 {
+    background-color: skyblue;
+}
+
+.carousel-items1 img {
+    width: 50%;
+    margin-top: 60px;
+    height: 650px;
+}
+
+.slider-info {
+    padding-top: 8%;
+    padding-right: 100px;
+
+}
+
+.slider-info img {
+    margin-bottom: 30px;
+    height: 100px;
+    width: 600px;
+}
+
+.slider_1_heading {
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+}
+
+.slider_2_heading {
+    color: red;
+    font-size: 150px;
+    font-style: italic;
+    margin-top: -80px;
+}
+
+.sheading1 {
+    color: white;
+    margin-top: -50px;
+    margin-bottom: 30px;
+}
+
+.sheading2 {
+    color: black;
+    font-weight: bold;
+    line-height: 130px;
+    margin-top: -30px;
+}
+
+.slider-btn {
+    color: white;
+    background-color: red;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    width: 350px;
+}
+
+.slider-btn:hover {
+    color: white !important;
+    border: 1px solid red;
+    background-color: green;
+}
+
+.slider-sub-btn {
+    font-size: medium;
+    font-weight: bold;
+    border: 1px solid red;
+    color: red;
+    width: 175px !important;
+}
+
+.slider-sub-btn:hover {
+    border: 1px solid white;
+    color: white;
+    background-color: red;
+}
+
+/* video */
+.video-div video {
+    border-top-left-radius: 6%;
+}
+
+/* product cards */
+.product-cards {
+    margin: auto;
+    margin: 50px 100px;
+    text-align: center;
+}
