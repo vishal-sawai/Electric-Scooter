@@ -9,7 +9,7 @@
 
     .slider-info {
         padding-top: 0%;
-        padding: 0px 20px;
+        padding: 0px 0px;
 
     }
 
@@ -22,7 +22,7 @@
     .slider-info img {
         margin-bottom: 10px;
         height: 100px;
-        width: 500px;
+        width: 300px;
         text-align: center;
     }
 
@@ -80,7 +80,7 @@
     /* product cards */
     .product-cards {
         margin: auto;
-        margin: 0px 50px;
+        margin: 0px 10px;
         text-align: center;
     }
 }
